@@ -3,7 +3,7 @@
 ## Intern Details
 
 - **Intern ID:** CITS3045
-- **Name:**Harsh Dhakad
+- Name:Harsh Dhakad
 - **Company:** CODTECH IT SOLUTIONS
 - **Duration:** 4 Weeks
 - **Domain:** Android Development
