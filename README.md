@@ -96,6 +96,11 @@ layout/
 drawable/
 
 ---
+## Documentation
+
+Project Documentation:
+
+- [CurrencyConverterApp_Documentation.pdf](documentation/CurrencyConverterApp_Documentation.pdf)
 
 # Developer
 
