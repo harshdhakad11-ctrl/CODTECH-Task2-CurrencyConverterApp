@@ -61,19 +61,19 @@ The project demonstrates Android UI Design, REST API Integration, Local Database
 
 ## Splash Screen
 
-![Splash](screenshots/splash.png)
+![Splash](screenshots/Splash.png)
 
 ## Home Screen
 
-![Home](screenshots/home.png)
+![Home](screenshots/Home.png)
 
-## Conversion
+## Search Currencies
 
 ![Search](screenshots/Search.png)
 
 ## History
 
-![History](screenshots/history.png)
+![History](screenshots/History.png)
 
 ---
 
