@@ -57,23 +57,23 @@ The project demonstrates Android UI Design, REST API Integration, Local Database
 
 ---
 
-# Output Screens
+# Screenshots
 
 ## Splash Screen
 
-(Add Screenshot)
+![Splash](screenshots/splash.png)
 
 ## Home Screen
 
-(Add Screenshot)
+![Home](screenshots/home.png)
 
-## Conversion Result
+## Conversion
 
-(Add Screenshot)
+![Search](screenshots/Search.png)
 
-## History Screen
+## History
 
-(Add Screenshot)
+![History](screenshots/history.png)
 
 ---
 
