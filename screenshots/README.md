@@ -2,11 +2,11 @@
 
 ## Splash Screen
 
-![Splash](screenshots/splash.png)
+![Splash](screenshots/Splash.png)
 
 ## Home Screen
 
-![Home](screenshots/home.png)
+![Home](screenshots/Home.png)
 
 ## Conversion
 
@@ -14,4 +14,4 @@
 
 ## History
 
-![History](screenshots/history.png)
+![History](screenshots/History.png)
